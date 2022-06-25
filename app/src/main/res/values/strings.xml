@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewItemClickListenerAnimations</string>
+    <string name="pizza">Pizza</string>
+    <string name="details">Details</string>
+</resources>
